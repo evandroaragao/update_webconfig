@@ -1,0 +1,6 @@
+Old_DbServer;New_DbServer
+srv-sql-old-01;srv-sql-new-01
+srv-sql-old-02;srv-sql-new-02
+srv-sql-old-03;srv-sql-new-03
+srv-sql-old-04;srv-sql-new-04
+192.168.1.234;srv-sql-new-05.domain.com
